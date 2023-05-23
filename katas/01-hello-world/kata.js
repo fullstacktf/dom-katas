@@ -7,5 +7,5 @@ export function kata() {
 
   div.appendChild(p);
 
-  return div;
+  document.body.appendChild(div);
 }

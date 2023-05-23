@@ -1,0 +1,50 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`structure is ok 1`] = `
+<body>
+  
+    
+  <main>
+    
+        
+    <section>
+      
+            
+      <p>
+        Elementary, my dear Watson
+      </p>
+      
+        
+    </section>
+    
+        
+    <section>
+      
+            
+      <p
+        class="star-wars"
+      >
+        Luke, I'm your father
+      </p>
+      
+        
+    </section>
+    
+        
+    <section>
+      
+            
+      <p>
+        It's a bug on the matrix
+      </p>
+      
+        
+    </section>
+    
+    
+  </main>
+  
+    
+
+</body>
+`;
