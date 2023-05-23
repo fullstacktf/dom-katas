@@ -1,0 +1,13 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`structure is ok 1`] = `
+<div
+  id="square"
+>
+  <p
+    id="text"
+  >
+    Hello World
+  </p>
+</div>
+`;

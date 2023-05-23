@@ -1,0 +1,19 @@
+{
+  "name": "dom-katas",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^9.3.0",
+    "jsdom": "^22.0.0",
+    "vite": "^4.3.2",
+    "vitest": "^0.31.1",
+    "vitest-dom": "^0.1.0"
+  }
+}
