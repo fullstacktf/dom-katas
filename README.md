@@ -1,7 +1,3 @@
-Temas a ver
+# DOM Katas!
 
-- querySelector
-- querySelectorAll
-- textContent
-- innerHTML
-- classList.add / toggle / remove
+This repo contains a set of exercises to get you familiar with manipulating the DOM. It's designed to be used as a self-paced introduction to DOM manipulation.
