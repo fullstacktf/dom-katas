@@ -1,0 +1,31 @@
+#root {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  padding: 1rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+main {
+  max-width: 500px;
+  padding: 20px;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+p {
+  font-size: 14px;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+section {
+  margin-bottom: 2rem;
+}

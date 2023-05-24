@@ -1,0 +1,119 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`structure is ok 1`] = `
+<body>
+  
+    
+  <main>
+    
+        
+    <h2>
+      This is the third kata!
+    </h2>
+    
+        
+    <hr />
+    
+        
+    <section>
+      
+            
+      <h2
+        class="title"
+      >
+        4 Things You Should Avoid When The Schedule's Slipping
+      </h2>
+      
+            
+      <p>
+        Granted, it takes real nerve… It takes real nerve to do the right thing when your delivery date’s looming
+                and you’re behind on your plan.
+      </p>
+      
+        
+    </section>
+    
+        
+    <section>
+      
+            
+      <h2
+        class="title"
+      >
+        PrivateGPT: A Free ChatGPT Alternative to Interact with Your Documents Offline
+      </h2>
+      
+            
+      <p>
+        A step-by-step guide to installing privateGPT on your computer. — Currently, you can interact with
+                documents such as PDFs using
+      </p>
+      
+        
+    </section>
+    
+        
+    <section>
+      
+            
+      <h2
+        class="title"
+      >
+        Different Ways of Viewing the Goldbach Conjecture
+      </h2>
+      
+            
+      <p>
+        A geometrically flavored approach — When I studied mathematics I often thought about famous unsolved
+                problems before going to sleep. I clearly remember one evening when I was thinking about how to
+      </p>
+      
+        
+    </section>
+    
+        
+    <section>
+      
+            
+      <h2
+        class="title"
+      >
+        Breaking Barriers: Antelope IBC Revolutionizes Inter-Blockchain Communication on WAX
+      </h2>
+      
+            
+      <p>
+        Inter-Blockchain Communication (IBC) has become a pivotal technology within the blockchain industry,
+                enabling separate
+      </p>
+      
+        
+    </section>
+    
+        
+    <section>
+      
+            
+      <h2
+        class="title"
+      >
+        Ten Years of AI in Review
+      </h2>
+      
+            
+      <p>
+        From image classification to chatbot therapy — The last decade has been a thrilling and eventful ride for
+                the field of artificial intelligence (AI). Modest explorations of the potential of deep learning turned
+                int
+      </p>
+      
+        
+    </section>
+    
+    
+  </main>
+  
+    
+
+</body>
+`;
